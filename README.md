@@ -32,6 +32,6 @@ so my company can compete with other e-commerce companies.
 ## Links
 
 [Github] (https://github.com/nescalante92/E_Commerce-)
-[Heroku] ()
+
 
 -------------------------
